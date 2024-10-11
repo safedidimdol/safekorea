@@ -1,2 +1,0 @@
-# safekorea
-safekorea
